@@ -20,5 +20,6 @@
 - README document
 - Code Of Conduct document
 - Company logo
+- CLI application that generates 10 random words for the user to type in and return the users WPM
 
 [1.0.0]: https://github.com/scriptjumper/Java-Chess-Engine/releases/tag/v-1.0.0
